@@ -27,7 +27,7 @@ const Page = () => {
             <br />
             <p className="text-[15px] ">
               AI Data Analyst Meet Your AI Data Analyst Unlock the full
-              potential of your data with RAVIAN AI’s Data Analyst—an
+              potential of your data with RAVIAN AI is Data Analyst—an
               intelligent platform designed to transform raw data into
               actionable insights. Our AI Data Analyst is equipped with the
               latest machine learning algorithms and cutting-edge technologies

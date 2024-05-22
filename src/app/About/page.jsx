@@ -49,11 +49,11 @@ const Page = () => {
               <span className="text-[15px] opacity-80">
                 Today, RAVIAN stands at the forefront of AI-driven analytics,
                 helping businesses of all sizes unlock the full potential of
-                their data assets. Whether you're uncovering hidden patterns,
+                their data assets. Whether you are uncovering hidden patterns,
                 predicting future trends, or optimizing operations, RAVIAN AI is
                 your trusted partner in navigating the complexities of
                 data-driven decision-making. Join us on this journey as we
-                continue to push the boundaries of what's possible in the realm
+                continue to push the boundaries of what is possible in the realm
                 of data analytics. Welcome to RAVIAN AI—where innovation meets
                 intelligence.
               </span>
