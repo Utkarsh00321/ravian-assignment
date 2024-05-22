@@ -28,7 +28,7 @@ const Page = () => {
               <br />
               <br />
               <span className="text-[15px] opacity-80">
-                As pioneers in the field, we have developed the world's leading
+                As pioneers in the field, we have developed the worlds leading
                 AI data scientist—an intelligent platform that leads the way in
                 crafting machine learning and deep learning models, conducting
                 comprehensive data analysis, and delivering actionable insights

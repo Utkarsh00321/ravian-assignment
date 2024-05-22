@@ -51,7 +51,7 @@ const Page = () => {
             <br />
             <p className="text-[15px] ">
               Introducing the Gen AI Vision Analyst: Redefining Visual
-              Intelligence At RAVIAN AI, we're excited to introduce our
+              Intelligence At RAVIAN AI, we are excited to introduce our
               revolutionary Gen AI Vision Analyst—a next-generation solution
               that sets a new standard for visual intelligence and data
               analysis.
