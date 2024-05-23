@@ -73,16 +73,16 @@ const Navbar = () => {
       {/* Mobile menu */}
       {isOpen && (
         <div className="md:hidden space-y-4 py-4 px-6 absolute w-full top-full left-0 shadow-lg z-10">
-          <Link href="/about" className="block">
+          <Link href="/About" className="block">
             About
           </Link>
-          <Link href="/vision" className="block">
+          <Link href="/Vision" className="block">
             Vision
           </Link>
-          <Link href="/offerings" className="block">
+          <Link href="/Offerings" className="block">
             Offerings
           </Link>
-          <Link href="/contact" className="block">
+          <Link href="/Contact" className="block">
             Contact
           </Link>
           <div className="block">
